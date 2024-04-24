@@ -1,4 +1,4 @@
-## Web Scraping: Extracting Nobel Peace Prize Nominees Data from Wikipedia ##
+## WebScraper_ImagesAndTexts ### 
 
 ### Description: ###
 This project aims to extract data from the Wikipedia page listing individuals nominated for the Nobel Peace Prize using web scraping techniques. The extracted data includes images of the nominees and textual information such as their names, birth years, and other relevant details. The extracted images are stored in a separate directory, while the textual data is saved in CSV format for easy analysis and manipulation. Python programming language is utilized alongside various libraries to accomplish this web scraping task.
